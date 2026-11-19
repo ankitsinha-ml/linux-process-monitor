@@ -234,7 +234,7 @@ Through this project, the following Operating Systems concepts were explored:
 
 ## Author
 
-**Ankit Sinha**  , **Ankit Kumar Singh** , **Hardik Raj** , **Anurag Raj** 
+**Ankit Sinha**
 B.Tech — Computer Science and Engineering (Artificial Intelligence & Machine Learning)  
 Techno Main Salt Lake, Kolkata
 
